@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woothai Address\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-19 09:54+0000\n"
+"PO-Revision-Date: 2018-08-19 09:56+0000\n"
+"Last-Translator: admin_jay <jaytecnical@gmail.com>\n"
+"Language-Team: Thai\n"
+"Language: th\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: public/class-woothai-address-public.php:118
+msgid "Your Email Address"
+msgstr "อีเมล์ของคุณ"
+
+#: public/class-woothai-address-public.php:122
+msgid "Your Phone Number"
+msgstr "เบอร์โทรศัพท์ของคุณ"
+
+#: public/class-woothai-address-public.php:140
+msgid "Sub-district / Sub-area"
+msgstr "ตำบล / แขวง"
+
+#: public/class-woothai-address-public.php:141
+msgid "e.g. Phra Khanong"
+msgstr "เช่น พระโขนง"
+
+#: public/class-woothai-address-public.php:157
+msgid "Your First Name"
+msgstr "ชื่อของคุณ"
+
+#: public/class-woothai-address-public.php:158
+msgid "Your Last Name"
+msgstr "นามสกุลของคุณ"
+
+#: public/class-woothai-address-public.php:159
+msgid "Address"
+msgstr "ที่อยู่"
+
+#: public/class-woothai-address-public.php:160
+msgid "House number, Road"
+msgstr "บ้านเลขที่, ตรอก/ซอย, ถนน"
+
+#: public/class-woothai-address-public.php:161
+msgid "District / Area"
+msgstr "อำเภอ / เขต"
+
+#: public/class-woothai-address-public.php:162
+msgid "e.g. Khlong Toei"
+msgstr "เช่น คลองเตย"
+
+#: public/class-woothai-address-public.php:163
+#: public/class-woothai-address-public.php:164
+msgid "Province"
+msgstr "จังหวัด"
+
+#: public/class-woothai-address-public.php:165
+msgid "e.g. 10400"
+msgstr "เช่น 10400"
+
+#. Name of the plugin
+msgid "Woothai Address"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
+
+#. URI of the plugin
+msgid "woothaiapp.com/whothai-address"
+msgstr ""
+
+#. Author of the plugin
+msgid "woothaiapp"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "woothaiapp.com"
+msgstr ""

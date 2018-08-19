@@ -1,0 +1,86 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-19 09:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: public/class-woothai-address-public.php:118
+msgid "Your Email Address"
+msgstr ""
+
+#: public/class-woothai-address-public.php:122
+msgid "Your Phone Number"
+msgstr ""
+
+#: public/class-woothai-address-public.php:140
+msgid "Sub-district / Sub-area"
+msgstr ""
+
+#: public/class-woothai-address-public.php:141
+msgid "e.g. Phra Khanong"
+msgstr ""
+
+#: public/class-woothai-address-public.php:157
+msgid "Your First Name"
+msgstr ""
+
+#: public/class-woothai-address-public.php:158
+msgid "Your Last Name"
+msgstr ""
+
+#: public/class-woothai-address-public.php:159
+msgid "Address"
+msgstr ""
+
+#: public/class-woothai-address-public.php:160
+msgid "House number, Road"
+msgstr ""
+
+#: public/class-woothai-address-public.php:161
+msgid "District / Area"
+msgstr ""
+
+#: public/class-woothai-address-public.php:162
+msgid "e.g. Khlong Toei"
+msgstr ""
+
+#: public/class-woothai-address-public.php:163
+#: public/class-woothai-address-public.php:164
+msgid "Province"
+msgstr ""
+
+#: public/class-woothai-address-public.php:165
+msgid "e.g. 10400"
+msgstr ""
+
+#. Name of the plugin
+msgid "Woothai Address"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
+
+#. URI of the plugin
+msgid "woothaiapp.com/whothai-address"
+msgstr ""
+
+#. Author of the plugin
+msgid "woothaiapp"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "woothaiapp.com"
+msgstr ""
